@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Mac and Linux files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.tmp
+*.swp
+*.swo
+
+# Build directories
+build/
+dist/
+*.egg-info/
+.venv
